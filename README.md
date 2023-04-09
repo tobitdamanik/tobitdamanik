@@ -26,8 +26,12 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="HTML" width="30px" src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Adobe Illustrator" width="30px" src="https://keybay.eu/wp-content/uploads/2022/07/Adobe-Illustrator.jpg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Adobe Photoshop" width="30px" src="https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/6/28/9e514b92-0d95-437c-b46c-9f9de3cfdfeb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Figma" width="30px" src="https://yt3.googleusercontent.com/ytc/AL5GRJUJ6B0I0wJMRqqQ9AilX4jHKkTzrcN2c2scntUOcQ=s900-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Microsoft Ecosystem" width="30px" src="https://yt3.googleusercontent.com/ytc/AL5GRJVez8i3_M6BCO7UQawLDIoK2PSe9PmjTP5Bi0IKqA=s900-c-k-c0x00ffffff-no-rj" style="padding-right:0px;" />][webdev]
 
 <br />
 <br />
