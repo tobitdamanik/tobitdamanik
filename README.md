@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [State Polytechnic of Sriwijaya](https://www.polsri.ac.id/) | Bachelor of Management Informatika | Palembang `2020-2023`
+#### 1. [State Polytechnic of Sriwijaya](https://www.polsri.ac.id/) | Diploma of Management Informatika | Palembang `2020-2023`
 #### 2. [SMA N 4 Palembang](https://www.sman4plg.sch.id/) | MIPA | Palembang `2017-2020`
    - Deputy Head of the extracurricular band
 
