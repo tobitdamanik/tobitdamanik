@@ -14,12 +14,12 @@
    - Deputy Head of the extracurricular band
 
 ## Work Experience:
-#### 1. [RSUP Dr Rivai Abdullah Palembang](https://rsrivaiabdullah.id/) | Web Designer and Web Development | Palembang `Sept'2022 - Dec 2022`
+#### 1. [RSUP Dr Rivai Abdullah Palembang](https://rsrivaiabdullah.id/) | Web Designer and Web Development | Palembang `Sept 2022 - Dec 2022`
    - Manage web design projects with teams using CSS, HTML and JavaScript.
    - Make a design for the website display page.
 #### 2. [SRE Universitas Indonesia](https://www.linkedin.com/company/society-of-renewable-energy-universitas-indonesia/mycompany/) | Student Intern | Jawa Barat `Mar'2022 - May 2022`
    - Creating Instagram Feed Design about Renewable Energy
-#### 3. [Cloud Studious](https://www.instagram.com/cloud.studious/) | Graphic Designer | Palembang `Nov'2022 - Now`
+#### 3. [Cloud Studious](https://www.instagram.com/cloud.studious/) | Graphic Designer | Palembang `Nov 2022 - Now`
    - Make designs for clothing brand needs, both streetwear designs, and the latest design trends.
    
 ---
