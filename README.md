@@ -1,4 +1,4 @@
-# Hi there, I'm Tobit - aka [tobitdamanik](linkedin.com/in/tobitdamanik/) 👋
+# Hi there, I'm Tobit - aka [tobitdamanik](https://www.linkedin.com/in/tobitdamanik/) 👋
 ## About me:
 - 🔭 I’m currently internship at [RSUP Dr Rivai Abdullah Palembang](https://rsrivaiabdullah.id/)
 - 🌱 I’m currently learning UI/UX Design, HTML, Pyhton and Javascript
